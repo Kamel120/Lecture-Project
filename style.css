@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+h1{
+    color: red;
+    margin-bottom: 1.5rem;
+}
+
+.container{
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
